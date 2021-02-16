@@ -38,6 +38,7 @@ express-generator/
 ├── config
 │   │── db.config.js
 │   │── debug.config.js
+│   │── error-handlers.config.js
 │   └── middleware.config.js
 └── bin
     └── www
